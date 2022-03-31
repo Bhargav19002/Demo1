@@ -1,0 +1,104 @@
+body{
+  margin: 0 auto;
+  background-color: #e9dac1;
+}
+
+.img-banner{
+  width: 100%;
+  height: 40rem;
+  margin: 0;
+
+}
+
+.profilephoto{
+    /* background-image: url(images/photo1.jpg); */
+    /* width: 15rem;
+    height: 15rem; */
+    border-radius: 50%;
+    box-shadow:  0em 0.6em 1.8em ;
+    margin:27px 50px 0px 20px;
+    position: relative;
+    left:40%;
+  /* width:100%;
+  background-size: 100%;
+  position: relative;
+  left: 15.625rem;
+  background-color: #e9dac1; */
+}
+
+  .profileparent{
+    background-color: #e9dac1;
+    box-shadow: 0.438rem 0.438rem 0.5rem 0.625rem #888888;
+
+}
+
+.txt{
+  position: absolute;
+  top:19.5rem;
+  left: 28.105rem;
+  font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.background{
+background-repeat: no-repeat;
+/* position: relative; */
+background-size: contain;
+width:100%;
+}
+
+.vec1{
+  /* background-repeat: repeat-x; */
+  width: 30rem;
+  height: 0.4375rem;
+  position: absolute;
+  top:0.17rem;
+  left: 23.125rem;
+  margin-bottom: 0;
+}
+
+.details{
+  background-color: #E9DAC1;
+  box-shadow: 0 0.438rem 0.5rem 0.625rem #888888;
+  flex:1;
+
+}
+
+.detailsfooter{
+  background-color: #E9DAC1;
+  box-shadow: 0.438rem 0.438rem 0.5rem 0.625rem #888888;
+  flex:1;
+
+}
+.linecard{
+  display:inline-block;
+}
+
+hr{
+   width: 80%;
+   background-color: #343230;
+   /* border: 10px; */
+   margin-left: auto;;
+   margin-right:auto;
+}
+
+button{
+  box-shadow: 0.438rem 0.438rem 0.5rem 0.5rem #888888;
+}
+
+.align{
+  display: flex;
+}
+
+.align1{flex:1;
+  align-items: center;
+
+
+;
+}
+
+footer{
+  background-color: #2c2e30;
+  color:white;
+  display: flex;
+}
